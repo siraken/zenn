@@ -1,0 +1,15 @@
+{
+  "name": "@siraken/zenn",
+  "version": "1.0.0",
+  "description": "Zenn articles",
+  "private": true,
+  "scripts": {
+    "new": "zenn new:article",
+    "preview": "zenn preview"
+  },
+  "keywords": [],
+  "author": "siraken",
+  "dependencies": {
+    "zenn-cli": "^0.1.140"
+  }
+}
